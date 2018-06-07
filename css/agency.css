@@ -351,9 +351,10 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal .close-modal {
-  position: absolute;
-  top: 25px;
-  right: 25px;
+  position: fixed;
+  z-index:999;
+  top: 45px;
+  right: 35px;
   width: 75px;
   height: 75px;
   cursor: pointer;
