@@ -715,12 +715,3 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
   background-color: #fed136;
 }
 
-@media (max-width:480px){
-    header.masthead .container{
-    background:url(../img/header-bg.png) no-repeat;}
-}
-@media (max-width:1200px){
-    header.masthead iframe{
-   width:1200px;
-   height:675px;}
-}
